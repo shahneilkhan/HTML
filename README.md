@@ -40,6 +40,6 @@ Example Explained:
 
 <body> → Container for all visible content like headings, paragraphs, images, links, etc.
 
-<h1> → Defines a large heading
+<h1> →  #Defines a large heading
 
-<p> → Defines a paragraph
+<p> →  #Defines a paragraph 
