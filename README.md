@@ -26,3 +26,20 @@ HTML is the standard markup language for creating Web pages.
 
 </body>
 </html>
+
+```
+Example Explained:
+
+<!DOCTYPE html> → Defines that this document is an HTML5 document
+
+<html> → Root element of the HTML page
+
+<head> → Contains meta information about the HTML page
+
+<title> → Specifies a title for the HTML page (shown in browser tab)
+
+<body> → Container for all visible content like headings, paragraphs, images, links, etc.
+
+<h1> → Defines a large heading
+
+<p> → Defines a paragraph
