@@ -70,5 +70,13 @@ The HTML element is everything from the start tag to the end tag:
 | `<br>`     | none               | none       |
 
 
+## Web Browsers
+The purpose of a web browser (Chrome, Edge, Firefox, Safari) is to read HTML documents and display them correctly.
+
+A browser does not display the HTML tags, but uses them to determine how to display the document:
+
+![Chrome screenshot](https://raw.githubusercontent.com/shahneilkhan/Gellery/main/img_chrome.png)
+
+
 
 
