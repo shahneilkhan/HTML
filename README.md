@@ -59,8 +59,13 @@ The HTML element is everything from the start tag to the end tag:
 <h1>My First Heading</h1>
 <p>My first paragraph.</p>
 
+## HTML Element Example
 
-##
+| Start tag | Element content     | End tag   |
+|------------|--------------------|------------|
+| `<h1>`     | My First Heading   | `</h1>`    |
+| `<p>`      | My first paragraph.| `</p>`     |
+| `<br>`     | none               | none       |
 
 
 
