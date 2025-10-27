@@ -1,5 +1,7 @@
-## HTML Introduction
+## 1.1 HTML Introduction
 HTML is the standard markup language for creating Web pages.
+![HTML Illustration](https://raw.githubusercontent.com/shahneilkhan/Gellery/main/html-illustration.png)
+
 
 ### What is HTML?
 - HTML stands for **Hyper Text Markup Language**  
@@ -77,6 +79,20 @@ A browser does not display the HTML tags, but uses them to determine how to disp
 
 ![Chrome screenshot](https://raw.githubusercontent.com/shahneilkhan/Gellery/main/img_chrome.png)
 
+
+## HTML Page Structure
+Below is a visualization of an HTML page structure:
+
+[View commit 323a252](https://github.com/shahneilkhan/Gellery/commit/323a252163a425cdf5b9b04d818316e66f704d6c)
+
+## HTML History
+Since the early days of the World Wide Web, there have been many versions of HTML:
+
+[View commit 66987d](https://github.com/shahneilkhan/Gellery/commit/66987dfba624e5d85730178e5de473fcb213427f)
+
+
+### 1.2 HTML Editors
+A simple text editor is all you need to learn HTML.
 
 
 
