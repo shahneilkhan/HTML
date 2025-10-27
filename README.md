@@ -43,3 +43,16 @@ Example Explained:
 < h1>  → Defines a large heading
 
 < p > → Defines a paragraph 
+
+
+
+
+## What is an HTML Element?
+
+An HTML element is defined by a start tag, some content, and an end tag:
+
+```html
+<tagname> Content goes here... </tagname>
+
+
+
